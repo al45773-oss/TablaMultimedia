@@ -11,7 +11,8 @@ Esto es la parte en donde se le indica el encabezado en mi archivo HTML
 Comados para abrir el Visual Code.
 En una terminal escribe el siguiente comando:
 
-'code'
+`code`
+
 ###Programación
 *Items 1
 *Items 2
